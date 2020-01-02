@@ -1,4 +1,4 @@
-Template
+Hello Sphinx2.2.0 Template 
 ========
 
 $project will solve your problem of where to start with documentation,
